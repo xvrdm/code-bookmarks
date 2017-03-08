@@ -1,6 +1,6 @@
 ## R
 ### Publishing
-- Extra web templates for rmd reports: [rmdformats](https://github.com/juba/rmdformats)
+- [rmdformats](https://github.com/juba/rmdformats) : Extra web templates for rmd reports
 
 ### Notifications
-- Notification with Pushbullet: [rpushbullet](http://dirk.eddelbuettel.com/code/rpushbullet.html)
+- [rpushbullet](http://dirk.eddelbuettel.com/code/rpushbullet.html) : Notification with Pushbullet
